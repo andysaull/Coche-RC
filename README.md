@@ -20,3 +20,5 @@ El coche se alimenta mediante una batería de Ni-Mh de 1800mAh@9,6V.
 Tanto el mando como el coche llevan una placa PCB hecha a medida para soldar todos los componentes en ella.
 
 **Ver la carpeta de Fotos para ver más sobre el proyecto**
+
+![Portada](https://user-images.githubusercontent.com/80455606/112230676-8eb03500-8c35-11eb-8d91-512bc4800a19.jpg)

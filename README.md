@@ -18,3 +18,5 @@ El coche es de un coche radiocontrol comercial al que se le ha sacado la electr�
 El coche se alimenta mediante una batería de Ni-Mh de 1800mAh@9,6V.
 
 Tanto el mando como el coche llevan una placa PCB hecha a medida para soldar todos los componentes en ella.
+
+**Ver la carpeta de Fotos para ver más sobre el proyecto**
